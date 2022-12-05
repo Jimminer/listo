@@ -28,6 +28,7 @@ A simple todo list TUI written using NCurses
 
 ```
 git clone https://github.com/Jimminer/listo.git
+cd listo
 make
 ```
 
