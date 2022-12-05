@@ -159,7 +159,6 @@ int main(int argc, char **argv){
                 //     break;
 
                 default:
-                    mvwprintw(stdscr, 0, 10, "%i", input);
                     break;
             }
         }
